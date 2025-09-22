@@ -66,3 +66,7 @@ ORDER BY sensor_id, ts_hour;
 - Power BI Desktop / Service
 - Access to raw Excel files with sensor data.
 ---
+![Temp_Hum](https://github.com/user-attachments/assets/7016a7ec-542f-4322-b2c0-2142d67e9b31)
+![TemperatureTrend](https://github.com/user-attachments/assets/b7a9f68d-0a56-4c41-abc7-877036ddb69f)
+![OutOfRange](https://github.com/user-attachments/assets/370bc27f-ad00-40f0-a683-1b859c63d244)
+![ChangeRate](https://github.com/user-attachments/assets/dccde160-dfd1-4066-98a6-c082cee78a71)
