@@ -8,7 +8,7 @@ The goal is to centralize and process heterogeneous data sources, ensuring clean
 
 ### Data Pipeline  
 - **Data ingestion**:  
-  - Historical data imported from Excel spreadsheets.  
+  - Continuous data import from Excel spreadsheets (stored in Sharepoint).  
   - Continuous data acquisition stored in PostgreSQL (`samples` table).  
 
 ### Data Transformation  
